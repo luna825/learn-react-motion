@@ -1,0 +1,34 @@
+.demo{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #eee;
+}
+.demo-ball{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    border-radius: 99px;
+    background-color: white;
+    border: 3px solid white;
+    position: absolute;
+    background-size: 50px;
+}
+.ball-0 {
+    background-image: url(./images/0.jpg);
+  }
+.ball-1 {
+    background-image: url(./images/1.jpg);
+  }
+.ball-2 {
+    background-image: url(./images/2.jpg);
+  }
+.ball-3 {
+    background-image: url(./images/3.jpg);
+  }
+.ball-4 {
+    background-image: url(./images/4.jpg);
+  }
+.ball-5 {
+    background-image: url(./images/5.jpg);
+  }
